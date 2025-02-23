@@ -13,7 +13,6 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -43,10 +42,4 @@ Windows:
 git clone https://github.com/codewithsadee/portfolio.git
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
